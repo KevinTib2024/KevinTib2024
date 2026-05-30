@@ -1,16 +1,41 @@
-## Hi there 👋
+# Kevin Alexander Tibaquicha Ortiz
 
-<!--
-**KevinTib2024/KevinTib2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Systems and Computing Student (9th Semester)
 
-Here are some ideas to get you started:
+Passionate about backend development, data analysis, machine learning and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- ASP.NET Core
+- C#
+- SQL Server
+- Entity Framework
+- Python
+- Flask
+- PySpark
+- Power BI
+- Unity
+- Git/GitHub
+
+## Featured Projects
+
+### SISBEN Vulnerability Analysis
+Data mining and machine learning platform using SISBEN IV data and PySpark.
+
+### GreenScope
+Environmental monitoring and deforestation analysis platform.
+
+### Sport Nutrition Platform
+Web platform focused on nutrition, exercise and injury prevention.
+
+### Accounting Management API
+Backend accounting management system developed with ASP.NET Core.
+
+### Historical Interactive Game
+Educational Unity game focused on Colombian history.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/kevin-tibaquicha-ortiz-68a04b413/
+
+Email: ktibaquichaortiz@gmail.com 
