@@ -8,6 +8,7 @@ Passionate about backend development, data analysis, machine learning and softwa
 
 - ASP.NET Core
 - C#
+- C++
 - SQL Server
 - Entity Framework
 - Python
