@@ -40,3 +40,7 @@ Educational Unity game focused on Colombian history.
 LinkedIn: https://www.linkedin.com/in/kevin-tibaquicha-ortiz-68a04b413/
 
 Email: ktibaquichaortiz@gmail.com 
+
+
+Microsoft Certified: Azure Fundamentals
+![Certified Azure AZ900](images/CertifiedAzureAZ900.png)
