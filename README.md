@@ -43,4 +43,4 @@ Email: ktibaquichaortiz@gmail.com
 
 
 Microsoft Certified: Azure Fundamentals
-![Certified Azure AZ900](images/CertifiedAzureAZ900.png)
+![Certified Azure AZ900](CertifiedAzureAZ900.png)
